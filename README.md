@@ -1,1 +1,1 @@
-live version: https://sweeft-gallery-teal.vercel.app/
+live version: https://react-finals.vercel.app/
